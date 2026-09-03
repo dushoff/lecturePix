@@ -1,15 +1,13 @@
 ## This is lecturePix
+## Bring together shared webpix and my_images to a central place.
+## my_images remains problematic for sharing, I think.
 
-## This section is for Dushoff-style vim-setup and vim targeting
-## You can delete it if you don't want it
 current: target
 -include target.mk
 Ignore = target.mk
 
 vim_session:
 	bash -ic "vmt"
-
-## -include makestuff/perl.def
 
 ######################################################################
 
