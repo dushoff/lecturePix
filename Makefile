@@ -9,6 +9,14 @@ Ignore = target.mk
 vim_session:
 	bash -ic "vmt"
 
+-include makestuff/perl.def
+
+######################################################################
+
+## Bring in stuff from 3SS, this should be organized later
+
+## 3SS.html: 3SS.step
+
 ######################################################################
 
 ### Makestuff
@@ -30,6 +38,7 @@ makestuff:
 -include makestuff/os.mk
 
 ## -include makestuff/pipeR.mk
+-include makestuff/webpix.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
