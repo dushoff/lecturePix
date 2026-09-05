@@ -39,7 +39,7 @@ makestuff:
 
 ## -include makestuff/pipeR.mk
 -include makestuff/webpix.mk
--include makestuff/mirrors.mk
+-include makestuff/mirror.mk
 
 -include makestuff/git.mk
 -include makestuff/visual.mk
