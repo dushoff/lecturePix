@@ -19,6 +19,16 @@ vim_session:
 
 ######################################################################
 
+## This is a service directory now? 
+## These stamps could clash, but that would just mean extra auto-pulling
+## Could also prevent makes when travelling….
+## The answer is probably to move stamps to the parent directory
+## I was probably scared of bolker when I designed them
+
+Ignore += *.stamp
+
+######################################################################
+
 ### Makestuff
 
 Sources += Makefile
