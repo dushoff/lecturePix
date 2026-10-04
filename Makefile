@@ -17,6 +17,9 @@ vim_session:
 
 ## 3SS.html: 3SS.step
 
+## Pictures for usLectures/philosophy, copied from statsTalks
+## statsTalks.html: statsTalks.step
+
 ######################################################################
 
 ## This is a service directory now? 
