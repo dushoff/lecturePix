@@ -1,6 +1,6 @@
 ## This is lecturePix
 ## Bring together shared webpix and my_images to a central place.
-## my_images remains problematic for sharing, I think.
+## my_images remains problematic for sharing with others, I think.
 
 current: target
 -include target.mk
